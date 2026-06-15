@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 
-<h3 align="center">🚀 Aspiring Software Engineer | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Developer • 💼 Frontend Developer Intern @ AbyM Technology • ⚡ Building Modern Web Applications</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI-Powered+Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;AI%2FML+Enthusiast;Building+Healthcare+AI+Solutions;Open+To+Internship+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=1100&lines=MERN+Stack+Developer;Frontend+Developer+Intern+%40+AbyM+Technology;Building+Scalable+and+User-Centric+Web+Applications;Passionate+About+Software+Engineering;Open+to+Software+Engineering+Opportunities" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ Become a Software Engineer at a Product-Based Company
 ## 🌐 Connect With Me
 
 📧 Email:
-kumarshubham02137@gmail.com
+shubhamkumar02137@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/shubhamkumar6/
