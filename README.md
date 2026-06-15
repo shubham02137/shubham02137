@@ -120,3 +120,9 @@ https://www.linkedin.com/in/shubhamkumar6/
 <p align="center">
 ⭐ If you like my work, consider giving a star to my repositories!
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubham02137/shubham02137/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
