@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubham02137/shubham02137/main/assets/banner.png" alt="Shubham Kumar Banner" />
+</p> 
+
+
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 
 <h3 align="center">
@@ -114,26 +119,94 @@
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
+# 🛠 Tech Stack
 
----
-
-### 🛠 Tools
+### 💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 ---
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+</p>
+
+---
+
+### ⚙ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=npm" />
+</p>
+
+---
+
+### 🗄 Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+</p>
+
+---
+
+### 🧠 Java DSA & Core CS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+**Core Concepts:** Data Structures & Algorithms • Object-Oriented Programming (OOP) • Database Management Systems (DBMS) • Operating Systems (OS) • Computer Networks (CN) • Problem Solving
+---
+
+### 🛠 Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=netlify" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+---
+
+### ☁ Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
 # 🚀 Featured Projects
 
@@ -248,18 +321,6 @@ Modern Portfolio Website built using React.
 <p align="center">
 
 🚀 Full Stack Development • ⚛️ MERN Stack • 🤖 AI/ML Projects • 💼 Software Engineering Internships • 🌍 Open Source
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shubham02137&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/shubham02137?label=FOLLOWERS&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/shubham02137?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
 
