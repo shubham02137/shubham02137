@@ -164,9 +164,9 @@ Modern Portfolio Website built using React.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubham02137&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham02137&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubham02137&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham02137&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
