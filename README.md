@@ -1,128 +1,229 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 
-<h3 align="center">🚀 MERN Stack Developer • 💼 Frontend Developer Intern @ AbyM Technology • ⚡ Building Modern Web Applications</h3>
+<h3 align="center">
+🚀 MERN Stack Developer • 💼 Frontend Developer Intern @ AbyM Technology • 🎯 Aspiring Software Engineer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=1100&lines=MERN+Stack+Developer;Frontend+Developer+Intern+%40+AbyM+Technology;Building+Scalable+and+User-Centric+Web+Applications;Passionate+About+Software+Engineering;Open+to+Software+Engineering+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=Frontend+Developer+Intern+%40+AbyM+Technology;MERN+Stack+Developer;Building+Modern+and+Scalable+Web+Applications;Passionate+About+Software+Engineering;Always+Learning+%26+Building" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/shubham02137">
+<img src="https://komarev.com/ghpvc/?username=shubham02137&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/shubham02137?tab=followers">
+<img src="https://img.shields.io/github/followers/shubham02137?logo=github&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/shubham02137">
+<img src="https://img.shields.io/github/stars/shubham02137?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 3rd Year IT Engineering Student
+🎓 **4th Year B.Tech (Information Technology) Student**
 
-💻 Passionate about Full Stack Development, AI/ML & Data Science
+💼 **Frontend Developer Intern @ AbyM Technology**
 
-🏥 Currently Building:
-AI Powered Hospital Management System
+💻 Passionate about **MERN Stack Development, Java & Software Engineering**
 
-🌱 Currently Learning:
+🌱 Currently Learning
+
 - MERN Stack
-- Java DSA
-- AI/ML
+- Java + DSA
 - System Design
+- REST APIs
+- AI Integration in Web Applications
 
-🎯 Goal:
-Become a Software Engineer at a Product-Based Company
+🏗️ Currently Building
 
----
+- 🏥 AI Hospital Management System
+- 📊 Data Engineering Analytics Dashboard
 
-## 🛠 Tech Stack
+🎯 Career Goal
 
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> Become a Software Engineer at a Product-Based Company and build impactful software products.
 
 ---
 
-### Frontend
+# 🛠 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 💻 Languages
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=java"/>
 
----
+<img src="https://skillicons.dev/icons?i=javascript"/>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=python"/>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c"/>
 
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
----
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+</p>
 
 ---
 
-## 📌 Featured Projects
+### 🎨 Frontend
 
-🏥 AI Hospital Management System
+<p>
 
-📊 Data Engineering Analytics Dashboard
+<img src="https://skillicons.dev/icons?i=html"/>
 
-❤️ Heart Disease Prediction Using Machine Learning
+<img src="https://skillicons.dev/icons?i=css"/>
 
-🌐 Personal Portfolio Website
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
 
----
+<img src="https://skillicons.dev/icons?i=tailwind"/>
 
-## 📈 GitHub Stats
+<img src="https://skillicons.dev/icons?i=react"/>
 
-![](https://github-readme-stats.vercel.app/api?username=shubham02137&show_icons=true&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=vite"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubham02137&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham02137&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-## 🎯 2026 Goals
+### ⚙ Backend
 
-✅ Complete MERN Stack
+<p>
 
-✅ Master DSA in Java
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
-✅ Build 10+ Real World Projects
+<img src="https://skillicons.dev/icons?i=express"/>
 
-✅ Secure Software Engineering Internship
-
-✅ Learn AI/ML Fundamentals
-
-✅ Reach 500+ GitHub Contributions
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 🗄 Database
 
-📧 Email:
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+### 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏥 AI Hospital Management System
+
+AI-powered Hospital Management platform with authentication, appointments, dashboard and role-based access.
+
+---
+
+### 📊 Data Engineering Analytics Dashboard
+
+Responsive analytics dashboard built during internship using HTML, CSS & Bootstrap.
+
+---
+
+### ❤️ Heart Disease Prediction
+
+Machine Learning model for heart disease prediction.
+
+---
+
+### 🌐 Personal Portfolio
+
+Modern Portfolio Website built using React.
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubham02137&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubham02137&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shubham02137&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/shubham02137/shubham02137/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master MERN Stack
+- ✅ Strengthen DSA in Java
+- ✅ Build 10+ Production Ready Projects
+- ✅ Crack Product-Based Company Interviews
+- ✅ Contribute to Open Source
+- ✅ Reach 1000+ GitHub Contributions
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email**
+
 shubhamkumar02137@gmail.com
 
-💼 LinkedIn:
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/shubhamkumar6/
 
-🌍 Portfolio:
-(Add Your Portfolio URL)
+💻 **GitHub**
+
+https://github.com/shubham02137
+
+🌍 **Portfolio**
+
+Coming Soon 🚀
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
-</p>
+<h3 align="center">
 
-## 🐍 Contribution Snake
+⭐ Thanks for visiting my profile ⭐
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shubham02137/shubham02137/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+Let's build something amazing together 🚀
+
+</h3>
