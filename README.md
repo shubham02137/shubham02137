@@ -189,15 +189,6 @@ Modern Portfolio Website built using React.
   <img src="https://raw.githubusercontent.com/shubham02137/shubham02137/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/shubham02137/shubham02137/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
@@ -212,30 +203,72 @@ Modern Portfolio Website built using React.
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
-📧 **Email**
+<p align="center">
 
-shubhamkumar02137@gmail.com
+<a href="mailto:shubhamkumar02137@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 **LinkedIn**
+<a href="https://www.linkedin.com/in/shubhamkumar6/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-https://www.linkedin.com/in/shubhamkumar6/
+<a href="https://github.com/shubham02137">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-💻 **GitHub**
+<a href="https://codolio.com/profile/shubhamdevit">
+<img src="https://img.shields.io/badge/Codolio-Developer_Profile-6C63FF?style=for-the-badge"/>
+</a>
 
-https://github.com/shubham02137
+<a href="https://x.com/Shubham02137">
+<img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-🌍 **Portfolio**
+<a href="https://www.reddit.com/user/shubham_07__/">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
 
-Coming Soon 🚀
+<a href="https://discord.com/users/1376278440277446878">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://shubhamkumar.dev">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Open to Collaborate
+
+<p align="center">
+
+🚀 Full Stack Development • ⚛️ MERN Stack • 🤖 AI/ML Projects • 💼 Software Engineering Internships • 🌍 Open Source
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shubham02137&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/shubham02137?label=FOLLOWERS&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/shubham02137?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
 
 ---
 
 <h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-Let's build something amazing together 🚀
-
+✨ Thanks for visiting my profile! ✨
 </h3>
+
+<p align="center">
+<i>Code • Build • Learn • Innovate • Repeat 🚀</i>
+</p>
