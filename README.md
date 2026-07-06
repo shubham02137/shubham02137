@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubham02137/shubham02137/main/assets/image.png" alt="Shubham Kumar Banner" />
-</p> 
+  <img src="https://raw.githubusercontent.com/shubham02137/shubham02137/main/assets/image.png"
+       alt="Shubham Kumar Banner"
+       width="55%" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
@@ -116,13 +118,22 @@
 
 ---
 
-### 🧠 Java DSA & Core CS
+
+### 🧠 Java DSA & Core Computer Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-**Core Concepts:** Data Structures & Algorithms • Object-Oriented Programming (OOP) • Database Management Systems (DBMS) • Operating Systems (OS) • Computer Networks (CN) • Problem Solving
+**Core Concepts**
+
+- 📌 Data Structures & Algorithms (DSA)
+- ☕ Object-Oriented Programming (OOP)
+- 🗄️ Database Management Systems (DBMS)
+- ⚙️ Operating Systems (OS)
+- 🌐 Computer Networks (CN)
+- 🧩 Problem Solving
+
 ---
 
 ### 🛠 Developer Tools
