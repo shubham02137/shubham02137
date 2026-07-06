@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubham02137/shubham02137/main/assets/image.png"
-       alt="Shubham Kumar Banner"
-       width="55%" />
+  <img src="https://raw.githubusercontent.com/shubham02137/shubham02137/main/assets/image.png"/>
 </p>
 
 
