@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubham02137/shubham02137/main/assets/banner.png" alt="Shubham Kumar Banner" />
+  <img src="https://raw.githubusercontent.com/shubham02137/shubham02137/main/assets/image.png" alt="Shubham Kumar Banner" />
 </p> 
 
 
@@ -58,67 +58,6 @@
 
 ---
 
-# 🛠 Tech Stack
-
-### 💻 Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-</p>
-
----
-
-### 🎨 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=vite"/>
-
-</p>
-
----
-
-### ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-</p>
-
----
-
-### 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
 # 🛠 Tech Stack
 
 ### 💻 Programming Languages
