@@ -161,25 +161,32 @@ Modern Portfolio Website built using React.
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham02137&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubham02137&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham02137&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubham02137&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=shubham02137&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=shubham02137&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham02137&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubham02137&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubham02137/shubham02137/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
