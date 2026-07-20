@@ -256,7 +256,7 @@ Modern Portfolio Website built using React.
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://shubhamkumar.dev">
+<a href="https://shubham-kumar-portfolio-one.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
